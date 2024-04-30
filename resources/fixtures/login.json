@@ -1,0 +1,16 @@
+{
+    "login": {
+        "sucesso": {
+            "cpf": "495.558.570-16",
+            "senha": "Teste@123"
+        },
+        "invalido": {
+            "cpf": "000.000.000-00"
+        },
+        "esqueci": {
+            "cpf": "935.909.270-38",
+            "senha": "Teste@123",
+            "confirma": "Teste@123"
+        }
+    }
+}

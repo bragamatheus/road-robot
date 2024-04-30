@@ -1,0 +1,39 @@
+{
+    "transferencia": {
+        "login": {
+            "cpf": "495.558.570-16",
+            "senha": "Teste@123"
+        },
+        "pix": {
+            "chave": "058.574.757-16",
+            "valor": "1000",
+            "descricao": "favorecido do pix Robsval Job Tox"
+        },
+        "pix_age": {
+            "chave": "058.574.757-16",
+            "valor": "500",
+            "descricao": "pix para o Robsval Job Tox"
+        },
+        "ted": {
+            "contato": "Robsval",
+            "valor": "1000"
+        },
+        "ted_novo": {
+            "banco": "301",
+            "agencia": "0001",
+            "conta": "262303",
+            "dig": "9",
+            "nome": "Robsval Job Tox",
+            "doc": "05857475716",
+            "valor": "1000"
+        },
+        "p2p": {
+            "conta": "3039",
+            "valor": "1500"
+        },
+        "p2p_age": {
+            "conta": "3039",
+            "valor": "1300"
+        }
+    }
+}
